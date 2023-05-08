@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VK-booking/static/css/main.6d09100d.css",
+    "main.js": "/VK-booking/static/js/main.792fa1ed.js",
+    "static/js/787.ad4ccf42.chunk.js": "/VK-booking/static/js/787.ad4ccf42.chunk.js",
+    "index.html": "/VK-booking/index.html",
+    "main.6d09100d.css.map": "/VK-booking/static/css/main.6d09100d.css.map",
+    "main.792fa1ed.js.map": "/VK-booking/static/js/main.792fa1ed.js.map",
+    "787.ad4ccf42.chunk.js.map": "/VK-booking/static/js/787.ad4ccf42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d09100d.css",
+    "static/js/main.792fa1ed.js"
+  ]
+}
